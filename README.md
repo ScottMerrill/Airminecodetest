@@ -41,7 +41,9 @@ Average distance: 10824.462769 km. Closest pair: Random Loc 0 – Random Loc 2 9
 ```
 
 The output should be:
+
 A list of every pair combination of places, sorted by ascending distance. 
+
 Followed by the Average distance and Closest pair.
 
 
