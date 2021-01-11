@@ -11,13 +11,13 @@ Make sure you have python3 installed on you machine
 ## Usage 
 You can run the program using either the .csv file: "places.csv"
 ```bash
-py Great_Circle_Distance.py
+python Great_Circle_Distance.py
 ```
 
 or 
 using a single command-line argument (integer) to generate n random locations
 ```bash
-py Great_Circle_Distance.py 10
+python Great_Circle_Distance.py 10
 ```
 
 
@@ -25,7 +25,7 @@ py Great_Circle_Distance.py 10
 Here is an example of what you can expect when running this script
 
 ```bash
-py Great_Circle_Distance.py 5
+python Great_Circle_Distance.py 5
 
 Random Loc 0              Random Loc 2              912.00153
 Random Loc 1              Random Loc 3              7235.43186
